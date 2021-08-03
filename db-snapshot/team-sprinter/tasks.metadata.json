@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"team-sprinter.tasks"}],"uuid":"6385b24d76064f45acf8bb9829328ea9"}
